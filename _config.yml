@@ -1,7 +1,7 @@
 # Site settings
 title: Conor Lewis
 email: conorlewis2000@hotmail.co.uk
-baseurl: "portfolio"
+url: "https://lewisconor.github.io/portfolio"
 description: "E-Portfolio for Conor Lewis"
 keywords: "Student, Programmer, Gamer"
 skills: "Student Game Programmer"
